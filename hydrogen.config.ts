@@ -2,8 +2,8 @@ import {defineConfig, CookieSessionStorage} from '@shopify/hydrogen/config';
 
 export default defineConfig({
   shopify: {
-    defaultCountryCode: 'US',
-    defaultLanguageCode: 'EN',
+    defaultCountryCode: 'JP',
+    defaultLanguageCode: 'JA',
     // storeDomain: import.meta.env.VITE_PUBLIC_STORE_DOMAIN,
     // storefrontToken: import.meta.env.VITE_PUBLIC_STOREFRONT_API_TOKEN,
     // storefrontApiVersion: import.meta.env.VITE_PUBLIC_STOREFRONT_API_VERSION,
